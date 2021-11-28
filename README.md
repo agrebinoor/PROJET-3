@@ -26,7 +26,7 @@ then
 Unfortunately we had issues with the front end that we couldn't fix, so it is possible that you will not be able to execute ""create entreprise or project"" but we rely on your understanding and we hope that you can check our backend code that is running with no issues and also our front end that we worked a lot on but is still lacking.
 Thank you.
 ## Possible issues
-* If you were faced with truffles issues when running npm please execute the following
+* If you were faced with truffles issues when running npm run serve with digital certificate ssl please execute the following 
 ```set NODE_OPTIONS=--openssl-legacy-provider```
 
 
